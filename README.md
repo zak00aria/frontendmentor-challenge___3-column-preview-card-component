@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://zak00aria.github.io/frontendmentor-challenge___3-column-preview-card-component/index.html)
 
 ## My process
 
