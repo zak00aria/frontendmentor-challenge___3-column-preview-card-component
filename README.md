@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://zak00aria.github.io/frontendmentor-challenge___3-column-preview-card-component/index.html)
+- Solution URL: [solution URL](https://zak00aria.github.io/frontendmentor-challenge___3-column-preview-card-component)
+- Live Site URL: [live site URL](https://zak00aria.github.io/frontendmentor-challenge___3-column-preview-card-component/index.html)
 
 ## My process
 
