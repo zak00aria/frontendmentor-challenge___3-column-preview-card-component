@@ -56,6 +56,7 @@ body{
   border-radius:1.6em;
   margin:3em 0 1em;
   border:2px solid hsl(0, 0%, 95%);
+  transition:.4s;
 }
 .card a.btn:active{
   background:rgba(0,0,0,0);
