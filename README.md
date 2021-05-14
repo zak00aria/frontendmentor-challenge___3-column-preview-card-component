@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://zak00aria.github.io/frontendmentor-challenge___3-column-preview-card-component)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-css-flexbox-TWCPFjiCE)
 - Live Site URL: [live site URL](https://zak00aria.github.io/frontendmentor-challenge___3-column-preview-card-component/index.html)
 
 ## My process
